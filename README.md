@@ -52,5 +52,5 @@ These are some of the major technologies that I use or have worked on in the pas
 </a>  
  -->
 
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.1]: https://img.icons8.com/fluency/344/linkedin.png (LinkedIn icon without padding)
 [2.1]: https://www.linkedin.com/in/prachi-sudrik/
