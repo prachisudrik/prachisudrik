@@ -1,7 +1,6 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Prachi Sudrik and I'm a graduate student at University of Southern California. I'm from India, currently based in Los Angeles, California. 
-You can find me on [![LinkedIn][1.1]][2.1].
+My name is Prachi Sudrik and I'm a graduate student at University of Southern California. I have worked as a Software Developer at Schlumberger for over 3 years in India and Colombia. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative ideas. Feel free to contact me on [![LinkedIn][1.1]][2.1].
 
 ## Skill Set :
 
