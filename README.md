@@ -3,21 +3,36 @@
 My name is Prachi Sudrik and I'm a graduate student at University of Southern California. I'm from India, currently based in Los Angeles, California. 
 You can find me on [![LinkedIn][1.1]][2.1].
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/C-JavaScript?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Java-JavaScript?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Python-JavaScript?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Javascript-JavaScript?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MySQL-JavaScript?style=flat&logo=mysql&logoColor=white&color=F9AB00)
-![](https://img.shields.io/badge/PostgreSQL-JavaScript?style=flat&logo=postgresql&logoColor=white&color=F9AB00)
-![](https://img.shields.io/badge/MongoDB-JavaScript?style=flat&logo=mongodb&logoColor=white&color=F9AB00)
-![](https://img.shields.io/badge/Flask-JavaScript?style=flat&logo=flask&logoColor=white&color=118CEE)
-![](https://img.shields.io/badge/Django-JavaScript?style=flat&logo=django&logoColor=white&color=118CEE)
-![](https://img.shields.io/badge/Spring-JavaScript?style=flat&logo=spring&logoColor=white&color=118CEE)
-![](https://img.shields.io/badge/React-JavaScript?style=flat&logo=react&logoColor=white&color=E60023)
-![](https://img.shields.io/badge/Jenkins-JavaScript?style=flat&logo=jenkins&logoColor=white&color=7E0BC3)
-![](https://img.shields.io/badge/Docker-JavaScript?style=flat&logo=docker&logoColor=white&color=7E0BC3)
-![](https://img.shields.io/badge/Kubernetes-JavaScript?style=flat&logo=kubernetes&logoColor=white&color=7E0BC3)
+## Skill Set :
+
+These are some of the major technologies that I use or have worked on in the past:
+
+**Programming Languages**
+
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
+|--|--|--|
+
+**Libraries and Frameworks**
+
+<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Apache Kafka" alt="Apache Kafka" width="40px" src="https://www.nastel.com/wp-content/uploads/2022/03/kafka-logo-1024x480.png">|<img title="Apache Spark" alt="Apache Spark" width="40px" src="https://miro.medium.com/max/1400/0*bqHf2WCDUlm7_hU3.png">|<img title="React" alt="React" width="40px" src="https://img.icons8.com/color/344/react-native.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+|--|--|--|--|--|
+<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="SAP" alt="SAP" width="40px" src="https://img.icons8.com/color/452/sap.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
+
+**Cloud**
+
+<img title="GCP" alt="GCP" width="40px" src="https://png.monster/wp-content/uploads/2020/11/gcp-69a54f41.png">|<img title="SuccessFactors" alt="SuccessFactors" width="40px" src="https://img.icons8.com/color/452/sap.png">
+|--|--|
+
+**Databases**
+
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br>
+|--|--|--|
+
+**Tools**
+
+<img title="Tableau" alt="Tableau" width="40px" src="https://img.icons8.com/color/344/tableau-software.png">|<img title="Unity" alt="Unity" width="40px" src="https://img.icons8.com/ios-filled/344/unity.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
+|--|--|--|--|--|
+<br>
 
 ## &#x1f4c8; GitHub Stats
 
